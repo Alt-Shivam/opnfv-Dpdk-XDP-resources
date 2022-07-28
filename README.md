@@ -1,1 +1,1 @@
-# opnfv-Dpdk-XDP-resources
+# opnfv-Dpdk-XDP-resource
