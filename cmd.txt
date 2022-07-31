@@ -1,3 +1,5 @@
  lshw -businfo -class network
  
+ /opt/dpdk-20.02/usertools/dpdk-devbind.py -s
+ 
  
