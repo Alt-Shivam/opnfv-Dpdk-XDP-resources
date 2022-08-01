@@ -2,4 +2,8 @@
  
  /opt/dpdk-20.02/usertools/dpdk-devbind.py -s
  
+ ip addr show dev ens1f3
+ 
+ ip link
+ 
  
